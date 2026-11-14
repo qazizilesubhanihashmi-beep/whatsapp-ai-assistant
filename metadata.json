@@ -1,0 +1,8 @@
+{
+  "name": "WhatsApp AI Assistant",
+  "description": "Personal desktop assistant to understand selected WhatsApp messages, generate context-aware Gemini replies, and schedule manual WhatsApp reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
